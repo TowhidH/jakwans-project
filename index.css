@@ -1,0 +1,20 @@
+
+
+
+.xoxo div{
+    animation: xoxo 30s infinite ease-in-out;
+}
+
+
+@keyframes xoxo {
+    0% {
+        transform: translate(0px);
+    } 50%{
+        transform: translate(-97%);
+    } 100% {
+        transform: translate(-0px);
+
+
+    }
+    
+}
